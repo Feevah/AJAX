@@ -12,7 +12,7 @@ var fs = require("fs");
 		var filePath = '.' + parUrl.pathname;
 
 
-		console.log(parUrl);
+		console.log(xhttp.send);
 		
 
 

@@ -11,7 +11,7 @@ function loadDoc() {
     //xhttp.open("GET", "lisa.txt", true);
     xhttp.open("GET", "https://raw.githubusercontent.com/Ruffinsan03/MyFirstApp/master/README.md", true);
     
-    xhttp.send();
+    xhttp.send("https://raw.githubusercontent.com/Ruffinsan03/MyFirstApp/master/README.md");
   };
 
 
